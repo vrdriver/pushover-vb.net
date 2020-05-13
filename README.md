@@ -1,7 +1,9 @@
 Pushover-vb.net
 ============
 
-VBA pushover module for https://pushover.net/api.
+I have updated this to work with Visual Basic (VB.NET). Forked and modified from @makah.
+
+VB.net pushover module for https://pushover.net/api.
 
 Usage
 =====
